@@ -13,10 +13,10 @@
 **Test Plan**
 
 1. Login 
-2. Search User
-3. Create User
-4. Search User
-5. Update User 
+2. Search 
+3. Create 
+4. Search
+5. Update
 6. Delete 
 
 ![image](https://user-images.githubusercontent.com/45478777/176932885-df2c1893-a047-4591-a6ad-e78dd8b585d4.png)
